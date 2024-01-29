@@ -1,4 +1,4 @@
-package POOExercicio3;
+package elevador;
 
 
 public class Elevador {

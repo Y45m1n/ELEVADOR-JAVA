@@ -1,4 +1,4 @@
-package POOExercicio3;
+package Elevador;
 
 
 import java.util.Scanner;
